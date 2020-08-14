@@ -27,3 +27,13 @@ fields:
       file: 
       path: 
   label: Reference
+- name: page_reference
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: posts
+  label: Page Reference
