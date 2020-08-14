@@ -5,6 +5,7 @@ tags:
 - demo-content
 - simple-post
 - blog
+reference: src/posts/a-post-with-code-samples.md
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
