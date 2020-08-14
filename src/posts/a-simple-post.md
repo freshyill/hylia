@@ -6,6 +6,10 @@ tags:
 - simple-post
 - blog
 reference: src/posts/a-post-with-code-samples.md
+page_reference:
+- src/posts/a-scheduled-post.md
+- src/posts/a-post-with-figures-and-video.md
+- src/posts/a-post-with-code-samples.md
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
