@@ -15,3 +15,15 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: reference
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: posts
+      file: 
+      path: 
+  label: Reference
